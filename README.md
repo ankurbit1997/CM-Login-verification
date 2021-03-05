@@ -7,10 +7,10 @@ it is a responsive page with Validation using JS.
 
 
 Desktop Design.
-(./design/desktop-preview.jpg)
+![Desktop Preview](./design/desktop-preview.jpg)
 
 
 Mobile Design
-(./design/mobile-design.jpg)
+![Mobile Preview](./design/mobile-design.jpg)
 
 
